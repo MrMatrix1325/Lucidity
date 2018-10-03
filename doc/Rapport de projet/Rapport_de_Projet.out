@@ -1,0 +1,60 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Sc\351nario du jeu}{}% 2
+\BOOKMARK [1][-]{section.3}{R\351capitulatif du cahier des charges}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Pr\351sentation du groupe et du projet}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Pr\351sentation du groupe}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Pr\351sentation du projet}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Description du projet}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Les domaines d\351velopp\351s dans ce projet}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{R\351sum\351 de nos objectifs}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{R\351partition des t\342ches / d\351coupages}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.1}{R\351partition des t\342ches}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Avancement du projet par soutenances}{subsection.3.3}% 12
+\BOOKMARK [1][-]{section.4}{Avancement chronologique du projet}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Premi\350re soutenance}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Deuxi\350me soutenance}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Soutenance finale}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Conception du monde}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{Map et textures \(Marion\)}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Checkpoints \(Laurent\)}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Graphique}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{Personnage \(Marion\)}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.2}{Animations \(Marion et Thomas\)}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{Physique}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{Personnage \(Thomas\)}{section.7}% 24
+\BOOKMARK [2][-]{subsection.7.2}{Elements du jeu \(Thomas et Marion\)}{section.7}% 25
+\BOOKMARK [1][-]{section.8}{R\351seau}{}% 26
+\BOOKMARK [2][-]{subsection.8.1}{Interface \(Thomas et Laurent\)}{section.8}% 27
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Serveur}{subsection.8.1}% 28
+\BOOKMARK [3][-]{subsubsection.8.1.2}{Client}{subsection.8.1}% 29
+\BOOKMARK [2][-]{subsection.8.2}{Synchronisation \(Thomas et Laurent\)}{section.8}% 30
+\BOOKMARK [3][-]{subsubsection.8.2.1}{D\351placement objets}{subsection.8.2}% 31
+\BOOKMARK [3][-]{subsubsection.8.2.2}{Instantiation}{subsection.8.2}% 32
+\BOOKMARK [2][-]{subsection.8.3}{Chat \(Thomas et Laurent\)}{section.8}% 33
+\BOOKMARK [1][-]{section.9}{Gameplay}{}% 34
+\BOOKMARK [2][-]{subsection.9.1}{HUD \(Charles\)}{section.9}% 35
+\BOOKMARK [2][-]{subsection.9.2}{Menus \(Charles\)}{section.9}% 36
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Les objets interactifs}{subsection.9.2}% 37
+\BOOKMARK [3][-]{subsubsection.9.2.2}{La source de lucidit\351}{subsection.9.2}% 38
+\BOOKMARK [3][-]{subsubsection.9.2.3}{La porte}{subsection.9.2}% 39
+\BOOKMARK [3][-]{subsubsection.9.2.4}{La plateforme automatique}{subsection.9.2}% 40
+\BOOKMARK [3][-]{subsubsection.9.2.5}{La plateforme guid\351e et les clips}{subsection.9.2}% 41
+\BOOKMARK [3][-]{subsubsection.9.2.6}{Le bouton}{subsection.9.2}% 42
+\BOOKMARK [1][-]{section.10}{Son}{}% 43
+\BOOKMARK [2][-]{subsection.10.1}{Musique \(Charles\)}{section.10}% 44
+\BOOKMARK [2][-]{subsection.10.2}{Les sons \(Charles et Laurent\)}{section.10}% 45
+\BOOKMARK [1][-]{section.11}{Site}{}% 46
+\BOOKMARK [2][-]{subsection.11.1}{Conception \(Laurent\)}{section.11}% 47
+\BOOKMARK [2][-]{subsection.11.2}{Utilisation \(Charles\)}{section.11}% 48
+\BOOKMARK [1][-]{section.12}{B\351n\351fices et difficult\351s}{}% 49
+\BOOKMARK [2][-]{subsection.12.1}{B\351n\351fices du projet}{section.12}% 50
+\BOOKMARK [2][-]{subsection.12.2}{Difficult\351s rencontr\351es}{section.12}% 51
+\BOOKMARK [1][-]{section.13}{Bilan personnel}{}% 52
+\BOOKMARK [2][-]{subsection.13.1}{Marion CLAUS}{section.13}% 53
+\BOOKMARK [2][-]{subsection.13.2}{Thomas DELECROIX}{section.13}% 54
+\BOOKMARK [2][-]{subsection.13.3}{Charles GINANE}{section.13}% 55
+\BOOKMARK [2][-]{subsection.13.4}{Laurent MARCHAUD}{section.13}% 56
+\BOOKMARK [1][-]{section.14}{Conclusion}{}% 57
+\BOOKMARK [1][-]{section.15}{Webographie}{}% 58
+\BOOKMARK [1][-]{section.16}{Remerciements}{}% 59
+\BOOKMARK [1][-]{section.17}{Annexe}{}% 60

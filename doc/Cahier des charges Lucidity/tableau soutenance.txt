@@ -1,0 +1,29 @@
+	\subsubsection{Deuxième soutenance}
+		
+			\begin{tabular}{|c|c|}
+				\hline domaine & Niveau d'accomplissement \\
+				\hline Moteur graphique & ++ \\
+				\hline Moteur physique & +++ \\
+				\hline Site & +++ \\
+				\hline Réseau & ++\\
+				\hline Gameplay & +++\\
+				\hline Conception du monde & ++ \\
+				\hline Son & +\\
+				\hline Finalisation & ++\\	
+				\hline
+			\end {tabular}
+ 	
+		\subsubsection{Troisième soutenance}
+			
+			\begin{tabular}{|c|c|}
+				\hline Domaine & Niveau d'accomplissement \\
+				\hline Moteur graphique & +++ \\
+				\hline Moteur physique & +++ \\
+				\hline Site & +++ \\
+				\hline Réseau & +++\\
+				\hline Gameplay & +++\\
+				\hline Conception du monde & +++ \\
+				\hline Son & +++ \\
+				\hline Finalisation & +++\\	
+				\hline
+			\end {tabular}

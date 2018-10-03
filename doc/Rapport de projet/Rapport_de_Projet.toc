@@ -1,0 +1,61 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\contentsline {section}{\numberline {2}Sc\IeC {\'e}nario du jeu}{6}{section.2}
+\contentsline {section}{\numberline {3}R\IeC {\'e}capitulatif du cahier des charges}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Pr\IeC {\'e}sentation du groupe et du projet}{7}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Pr\IeC {\'e}sentation du groupe}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Pr\IeC {\'e}sentation du projet}{10}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Description du projet}{12}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Les domaines d\IeC {\'e}velopp\IeC {\'e}s dans ce projet}{12}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}R\IeC {\'e}sum\IeC {\'e} de nos objectifs}{13}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}R\IeC {\'e}partition des t\IeC {\^a}ches / d\IeC {\'e}coupages}{14}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}R\IeC {\'e}partition des t\IeC {\^a}ches}{14}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Avancement du projet par soutenances}{15}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Avancement chronologique du projet}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}Premi\IeC {\`e}re soutenance}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Deuxi\IeC {\`e}me soutenance}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Soutenance finale}{16}{subsection.4.3}
+\contentsline {section}{\numberline {5}Conception du monde}{17}{section.5}
+\contentsline {subsection}{\numberline {5.1}Map et textures (Marion)}{17}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Checkpoints (Laurent)}{18}{subsection.5.2}
+\contentsline {section}{\numberline {6}Graphique}{19}{section.6}
+\contentsline {subsection}{\numberline {6.1}Personnage (Marion)}{19}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Animations (Marion et Thomas)}{20}{subsection.6.2}
+\contentsline {section}{\numberline {7}Physique}{20}{section.7}
+\contentsline {subsection}{\numberline {7.1}Personnage (Thomas)}{20}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Elements du jeu (Thomas et Marion)}{23}{subsection.7.2}
+\contentsline {section}{\numberline {8}R\IeC {\'e}seau}{25}{section.8}
+\contentsline {subsection}{\numberline {8.1}Interface (Thomas et Laurent)}{25}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}Serveur}{25}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}Client}{25}{subsubsection.8.1.2}
+\contentsline {subsection}{\numberline {8.2}Synchronisation (Thomas et Laurent)}{26}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}D\IeC {\'e}placement objets}{26}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Instantiation}{26}{subsubsection.8.2.2}
+\contentsline {subsection}{\numberline {8.3}Chat (Thomas et Laurent)}{26}{subsection.8.3}
+\contentsline {section}{\numberline {9}Gameplay}{27}{section.9}
+\contentsline {subsection}{\numberline {9.1}HUD (Charles)}{27}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Menus (Charles)}{29}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Les objets interactifs}{30}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}La source de lucidit\IeC {\'e}}{30}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}La porte}{30}{subsubsection.9.2.3}
+\contentsline {subsubsection}{\numberline {9.2.4}La plateforme automatique}{30}{subsubsection.9.2.4}
+\contentsline {subsubsection}{\numberline {9.2.5}La plateforme guid\IeC {\'e}e et les clips}{31}{subsubsection.9.2.5}
+\contentsline {subsubsection}{\numberline {9.2.6}Le bouton}{31}{subsubsection.9.2.6}
+\contentsline {section}{\numberline {10}Son}{32}{section.10}
+\contentsline {subsection}{\numberline {10.1}Musique (Charles)}{32}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Les sons (Charles et Laurent)}{33}{subsection.10.2}
+\contentsline {section}{\numberline {11}Site}{34}{section.11}
+\contentsline {subsection}{\numberline {11.1}Conception (Laurent)}{34}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Utilisation (Charles)}{35}{subsection.11.2}
+\contentsline {section}{\numberline {12}B\IeC {\'e}n\IeC {\'e}fices et difficult\IeC {\'e}s}{36}{section.12}
+\contentsline {subsection}{\numberline {12.1}B\IeC {\'e}n\IeC {\'e}fices du projet}{36}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Difficult\IeC {\'e}s rencontr\IeC {\'e}es}{37}{subsection.12.2}
+\contentsline {section}{\numberline {13}Bilan personnel}{39}{section.13}
+\contentsline {subsection}{\numberline {13.1}Marion CLAUS}{39}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Thomas DELECROIX}{40}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Charles GINANE}{41}{subsection.13.3}
+\contentsline {subsection}{\numberline {13.4}Laurent MARCHAUD}{42}{subsection.13.4}
+\contentsline {section}{\numberline {14}Conclusion}{44}{section.14}
+\contentsline {section}{\numberline {15}Webographie}{45}{section.15}
+\contentsline {section}{\numberline {16}Remerciements}{47}{section.16}
+\contentsline {section}{\numberline {17}Annexe}{48}{section.17}

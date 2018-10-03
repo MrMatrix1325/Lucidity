@@ -1,0 +1,23 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Pr\IeC {\'e}sentation de "The Chamallow"}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Le groupe en lui-m\IeC {\^e}me }{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Pr\IeC {\'e}sentation personnelle de chacun}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Thomas "Tetra" DELECROIX }{3}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Marion "Santa" CLAUS}{3}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Charles "Gigi" GINANE}{4}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Laurent "Aluxima" MARCHAUD}{4}{subsubsection.2.2.4}
+\contentsline {section}{\numberline {3}Pr\IeC {\'e}sentation du projet}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Origine}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Nature}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Buts et int\IeC {\'e}r\IeC {\^e}ts}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Description du projet}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Les points de notre projet}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}R\IeC {\'e}sum\IeC {\'e} de nos objectifs}{7}{subsection.4.2}
+\contentsline {section}{\numberline {5}Technologie}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Logiciels}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Co\IeC {\^u}ts}{9}{subsection.5.2}
+\contentsline {section}{\numberline {6}R\IeC {\'e}partition des t\IeC {\^a}ches / d\IeC {\'e}coupages}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}R\IeC {\'e}partition des t\IeC {\^a}ches}{10}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Avancement du projet par soutenances}{10}{subsection.6.2}
+\contentsline {section}{\numberline {7}Conclusion}{11}{section.7}
